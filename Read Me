@@ -1,0 +1,13 @@
+The scripts provided were written in order to process loggerhead turtle (Caretta caretat) incubation temperature data from across the Mediterranean. Data was split into sand and nest loggers to allow me to account for metabolic heating without skewing the models
+I ran model selection and landed on an SVM based on various error, bias and emperical assessment in addition to a manual "logic" check to look for errorneous patterns and examining residuals. 
+There are a host of assumptions assosciated with such modelling, namely relating to inter and intra beach variability, I therefore consider this type of work to be a best guess of general patterns as oppose to a to the decimal projection. 
+
+I have used the climate projection values for the wider Mediterranean under ICCP climate scenario 7.0 which when I began was considered a mid-ground scenario but is fast becoming best-case. 
+
+I also created a shiny app, which is included in the code, but can also be accessed using the following link 
+
+https://0uq6q4-jay-kirkham.shinyapps.io/Med_Turtle_Map/
+
+Please reach out to me for more details, questions or problems. 
+
+Publication to cite pending 
